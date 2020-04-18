@@ -1,0 +1,4 @@
+https://hub.docker.com/repository/docker/vcctu85/reverseproxy
+https://hub.docker.com/repository/docker/vcctu85/udacity-restapi-user
+https://hub.docker.com/repository/docker/vcctu85/udacity-restapi-feed
+https://hub.docker.com/repository/docker/vcctu85/udacity-frontend
